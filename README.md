@@ -1,3 +1,4 @@
-# t1x1j.github.io
+# Luke Beard
+# Student Researcher at Rowan University
 
-test test
+
