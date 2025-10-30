@@ -25,7 +25,7 @@ We took a look at the problem from the point-of-view of the bad guys: how would 
 
 I am currently employed at BJ's Wholesale Club and have been for over 4 years now. It has taught me strong personal skills involving communication between customers, team members, and management. It has also taught me time management (the time it takes for my department to do its work is a very key metric) skills, a strong work ethic, and how to do a good job and be proud of it.
 
-My interests include: blockchain technologies, distributed systems, cryptocurrencies, cryptography, criminal justice, computer hardware, and how information can be used for both good and bad and the intersection between those two opposites. 
+My interests include: blockchain technologies, distributed systems, cryptocurrencies, cryptography, criminal justice, digital forensics, computer hardware, and how information can be used for both good and bad and the intersection between those two opposites. 
 
 Regarding my future career aspirations, I would love to work for a government agency that deals with cybercrime. I think crime in general is disgusting, but cybercrime is abhorrent with the levels of degeneracy it can reach. The dissemination of illegal content such as illegal drugs, illegal marketplaces, and illegal imagery and videos is a misuse of the Internet and I wish to do my best to help those who want to stop it. I think the Internet itself is great - but it should not be used for anything distasteful or illegal. 
 
